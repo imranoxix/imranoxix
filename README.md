@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there, I'm Imrane 👋
 
-<!--
-**imranoxix/imranoxix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👤 Who am I?
+I am an aspiring full-stack software developer passionate about building clean, efficient applications and exploring new technologies. I love coding, learning new frameworks, and creating tools that solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm currently working on
+*   Developing full-stack web applications and leveling up my coding skills.
+*   Exploring automation workflows and integrating AI technologies.
+*   Building personal side projects to improve software architecture and design.
+
+---
+
+🛠️ Tools & Technologies I use
+*   **Languages:** Python, JavaScript, TypeScript
+*   **Frameworks & Libraries:** React, Node.js
+*   **Tools & DevOps:** Docker, Git, Cursor / VS Code
